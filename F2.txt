@@ -4,6 +4,10 @@ first change for JJ branch
 
 second change for JJ branch
 
+<<<<<<< HEAD
 third change for MK branch
 
 forth change for MK
+=======
+changes forth for MK
+>>>>>>> MK
